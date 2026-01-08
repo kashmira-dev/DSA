@@ -7,48 +7,89 @@ It helps improve problem-solving skills and understanding of core DSA concepts t
 Repository Name: **DSA**
 
 ---
+🧱 Implemented Concepts
+🗼 Recursion & Divide & Conquer
 
-## 🧱 Implemented Concepts
+Tower of Hanoi
+(towerOfHanoi.java)
 
-### 🔁 Stack & Queue Variations
-- QueueStack – Push Friendly (`QueueStackPushFriendly.java`)
-- QueueStack – Pop Friendly (`QueueStackPopFriendly.java`)
-- StackQueue – Enqueue Friendly (`StackQueueEnqueueFriendly.java`)
-- StackQueue – Dequeue Friendly (`StackQueueDequeueFriendly.java`)
+Quick Sort Algorithm
+(quickSort.java)
 
----
+Optimized Quick Sort Algorithm
+(OptimizedQuickSort.java)
 
-### 📦 Stack Implementations
-- Unbounded Array Stack (Dynamic resizing during push & pop)  
-  (`UnboundedArrayStack.java`)
-- Linked List Stack  
-  (`LinkedListStack.java`)
+Merge Sort Algorithm
+(mergeSort.java)
 
----
+🔁 Sorting Algorithms
 
-### 🔄 Queue Implementations
-- Array Circular Queue  
-  (`ArrayCircularQueue.java`)
-- Linked List FIFO Queue  
-  (`LinkedListFIFOQueue.java`)
+Bubble Sort Algorithm
+(bubbleSort.java)
 
----
+Optimized Bubble Sort Algorithm
+(optimizedbubblesort.java)
 
-### 🔗 Linked List Implementations
-- Singly Linked List  
-  (`SinglyLinkedList.java`)
-- Doubly Linked List  
-  (`DoublyLinkedList.java`)
-- Circular Doubly Linked List  
-  (`CircularDoublyLinkedList.java`)
+Insertion Sort Algorithm
+(InsertionSort.java)
 
----
+Optimized Insertion Sort Algorithm
+(OptimizedInsertionSort.java)
 
-### 🧮 Problem Solving
-- Rabbit Problem  
-  (`RabbitProblem.java`)
+Selection Sort Algorithm
+(selectionSort.java)
 
----
+🔗 Linked List Implementations
+
+Singly Linked List
+(SinglyLinkedList.java)
+
+Doubly Linked List
+(DoublyLinkedList.java)
+
+Circular Doubly Linked List
+(CircularDoublyLinkedList.java)
+
+📦 Stack Implementations
+
+Linked List Stack
+(LinkedListStack.java)
+
+Queue Stack – Push Friendly
+(QueueStackPushFriendly.java)
+
+Queue Stack – Pop Friendly
+(QueueStackPopFriendly.java)
+
+Unbounded Array Stack
+(UnboundedArrayStack.java)
+
+🔄 Queue Implementations
+
+Array Circular Queue
+(ArrayCircularQueue.java)
+
+Linked List FIFO Queue
+(LinkedListFIFOQueue.java)
+
+Stack Queue – Enqueue Friendly
+(StackQueueEnqueueFriendly.java)
+
+Stack Queue – Dequeue Friendly
+(StackQueueDequeueFriendly.java)
+
+🌳 Tree Data Structures
+
+Binary Search Tree
+(BinarySearchTree.java)
+
+AVL Tree
+(AVLTree.java)
+
+🧮 Problem Solving
+
+Rabbit Problem
+(RabbitProblem.java)
 
 ## 🛠️ Technologies Used
 - ☕ **Java**
